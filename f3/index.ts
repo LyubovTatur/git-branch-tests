@@ -1,1 +1,2 @@
-const c = 2
+let c = 2
+c = -100
